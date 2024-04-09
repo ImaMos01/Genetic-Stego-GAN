@@ -1,5 +1,5 @@
 # Genetic-Stego-GAN
-Red generativa adversaria evolutiva para el procesamiento de imágenes esteganográficas.
+Red generativa adversaria evolutiva para el procesamiento de imágenes estenográficas.
 
 ## Tecnologías Usadas
 * Python
